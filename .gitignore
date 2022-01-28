@@ -7,6 +7,9 @@
 # Only exists if Bazel was run
 /bazel-out
 
+#remove img folder from github
+image/ 
+
 # dependencies
 /node_modules
 
