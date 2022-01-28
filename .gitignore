@@ -8,7 +8,7 @@
 /bazel-out
 
 #remove img folder from github
-/imgs
+image/
 
 # dependencies
 /node_modules
